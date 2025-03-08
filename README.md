@@ -51,5 +51,3 @@ Get your API key from [OpenWeatherMap](https://openweathermap.org/api).
 
 ---
 
-💙 Developed with love by [Your Name](https://github.com/your-username)
-
